@@ -10,13 +10,6 @@ I'm an student of Computer Science, and still exploring the world of programmer
 # 💫 learning:
 🌱 I’m currently learning **Building a Web Apps**
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=M1nkyLab&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=M1nkyLab&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
