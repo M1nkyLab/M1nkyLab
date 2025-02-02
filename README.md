@@ -2,6 +2,12 @@
   <img width="100%" height="auto" src="https://github.com/user-attachments/assets/256fa1b7-452a-44fc-825c-8e762b1b166f" alt="MYANIMATION">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=RASTER+FORGE&pause=1000&color=EE2FF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%98%83;I'm+Farhan+Haziq!+%F0%9F%8F%87%E2%9A%94%EF%B8%8F" alt="Typing SVG">
@@ -51,3 +57,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=M1nkyLab&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
