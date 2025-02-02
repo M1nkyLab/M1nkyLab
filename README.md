@@ -1,7 +1,9 @@
+![myanimation](https://github.com/user-attachments/assets/ed301bdf-b6f9-4914-a13e-137317c33867)
+
 
 # 👻Farhan Haziq
 
-I'm an student of Computer Science, and still exploring the world of programmer
+I'm a 🎓 Computer Science student on an exciting journey of discovery, diving deep into the 🌍 world of programming. Every day is a new adventure as I explore different technologies ⚡, sharpen my skills 💻, and bring ideas to life through code 🚀!
 
 <h2>🚀 Languages and Tools I Use </h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
@@ -13,7 +15,7 @@ I'm an student of Computer Science, and still exploring the world of programmer
 # 💫 learning:
 🌱 I’m currently learning **Building a Web Apps**
 
-![myanimation](https://github.com/user-attachments/assets/ed301bdf-b6f9-4914-a13e-137317c33867)
+
 
 
 ### 🔝 Top Contributed Repo
