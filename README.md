@@ -1,7 +1,8 @@
-![myanimation](https://github.com/user-attachments/assets/ed301bdf-b6f9-4914-a13e-137317c33867)
+
+![MYANIMATION](https://github.com/user-attachments/assets/256fa1b7-452a-44fc-825c-8e762b1b166f)
 
 
-# 👻Farhan Haziq
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=RASTER+FORGE&pause=1000&color=EE2FF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%98%83;I'm+Farhan+Haziq!+%F0%9F%8F%87%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 I'm a 🎓 Computer Science student on an exciting journey of discovery, diving deep into the 🌍 world of programming. Every day is a new adventure as I explore different technologies ⚡, sharpen my skills 💻, and bring ideas to life through code 🚀!
 
