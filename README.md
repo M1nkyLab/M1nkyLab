@@ -13,7 +13,7 @@ I'm an student of Computer Science, and still exploring the world of programmer
 # 💫 learning:
 🌱 I’m currently learning **Building a Web Apps**
 
-![Chill Night GIF - Chill Night Anime - Discover   Share GIFs](https://github.com/user-attachments/assets/ed301bdf-b6f9-4914-a13e-137317c33867)
+![myanimation](https://github.com/user-attachments/assets/ed301bdf-b6f9-4914-a13e-137317c33867)
 
 
 ### 🔝 Top Contributed Repo
