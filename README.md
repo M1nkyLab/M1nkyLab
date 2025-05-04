@@ -5,12 +5,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
 <p align="center" style="font-size: 1.2rem;">
-  🎓 Computer Science student exploring the 🌍 world of programming.<br>
-  Passionate about learning new technologies ⚡, coding 💻, and building projects 🚀.
+  💼 Aspiring frontend developer with a keen interest in UI/UX design.<br>
+  Dedicated to building thoughtful, user-centered web experiences.
 </p>
 
 ---
@@ -35,11 +34,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=RASTER+FORGE&pause=1000&color=EE2FF7&center=true&vCenter=true&width=435&lines=%F0%9F%92%AB+learning%3A" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=RASTER+FORGE&pause=1000&color=EE2FF7&center=true&vCenter=true&width=435&lines=%F0%9F%92%AB+learning%3A+UI%2FUX+and+Frontend+Development" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center" style="font-size: 1.2rem; font-weight: bold;">
-  🌱 I’m currently learning **Building Web Apps**
+  🌱 I’m currently learning UI/UX and Frontend Development
 </p>
-
