@@ -2,11 +2,6 @@
   <img width="100%" height="400px" src="https://github.com/user-attachments/assets/256fa1b7-452a-44fc-825c-8e762b1b166f" alt="MYANIMATION">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
 <p align="center" style="font-size: 1.2rem;">
   💼 Aspiring frontend developer with a keen interest in UI/UX design.<br>
   Dedicated to building thoughtful, user-centered web experiences.
