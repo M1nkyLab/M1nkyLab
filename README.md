@@ -8,12 +8,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=RASTER+FORGE&pause=1000&color=EE2FF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%98%83;I'm+Farhan+Haziq!+%F0%9F%8F%87%E2%9A%94%EF%B8%8F" alt="Typing SVG">
-  </a>
-</p>
-
 <p align="center" style="font-size: 1.2rem;">
   🎓 Computer Science student exploring the 🌍 world of programming.<br>
   Passionate about learning new technologies ⚡, coding 💻, and building projects 🚀.
@@ -49,10 +43,3 @@
   🌱 I’m currently learning **Building Web Apps**
 </p>
 
----
-
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1nkyLab&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
