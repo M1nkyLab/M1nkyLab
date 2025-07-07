@@ -17,6 +17,4 @@
   </a>
 </p>
 
-<p align="center" style="font-size: 1.2rem; font-weight: bold;">
-  🌱 I’m currently learning UI/UX and Frontend Development
-</p>
+
